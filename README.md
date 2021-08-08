@@ -34,7 +34,7 @@ The current main home page does not follow HTML semantics and has repeative CSS 
 
  [Link to the deployed website] (file:///Users/miranda/code/HOE-RISE-ON/index.html) 
 
- [Link to the code repository]
+ [Link to the code repository] (https://github.com/Zermeno94/HOE-RISE-ON)
 
 
 ## **Credits**
